@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+numpy
+python-multipart
+pydantic
+aiofiles
+gunicorn
+python-dotenv
+websockets
+msgpack

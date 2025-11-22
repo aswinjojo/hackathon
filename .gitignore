@@ -1,0 +1,3 @@
+*.pkl.gz
+backend/venv
+frontend/stream-ui/node_modules
